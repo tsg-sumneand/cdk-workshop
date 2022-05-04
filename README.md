@@ -1,4 +1,4 @@
-# Project Context
+# Context
 
 This is an example TypeScript CDK project created by following the [AWS CDK Workshop](https://cdkworkshop.com).
 
