@@ -1,3 +1,11 @@
+# Project Context
+
+This is an example TypeScript CDK project created by following the [AWS CDK Workshop](https://cdkworkshop.com).
+
+The TypeScript CDK project, including git repository, was [initialised](https://cdkworkshop.com/20-typescript/20-create-project/100-cdk-init.html#cdk-init) using:
+
+    cdk init sample-app --language typescript
+
 # Welcome to your CDK TypeScript project
 
 You should explore the contents of this project. It demonstrates a CDK app with an instance of a stack (`CdkWorkshopStack`)
