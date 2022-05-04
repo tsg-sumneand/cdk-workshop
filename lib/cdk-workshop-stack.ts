@@ -28,7 +28,8 @@ export class CdkWorkshopStack extends Stack {
 
     new TableViewer(this, 'ViewHitCounter', {
       title: 'Hello Hits',
-      table: //??????
+      table: helloWithCounter.table,
+      sortBy: '-hits'       // optional ("-" denotes descending order)
     });
   }
 }
