@@ -1,8 +1,8 @@
 # Context
 
-This is an example TypeScript CDK project created by following the [AWS CDK Workshop](https://cdkworkshop.com).
+This is an example TypeScript CDK project created by following along with the <a href="https://cdkworkshop.com" target="_blank">AWS CDK Workshop</a>.
 
-The TypeScript CDK project, including git repository, was [initialised](https://cdkworkshop.com/20-typescript/20-create-project/100-cdk-init.html#cdk-init) using:
+The TypeScript CDK project, including git repository, was <a href="https://cdkworkshop.com/20-typescript/20-create-project/100-cdk-init.html#cdk-init" target="_blank">initialised</a> using:
 
     cdk init sample-app --language typescript
 
