@@ -28,7 +28,7 @@ aws s3 ls
 echo ""
 aws sts get-caller-identity | grep -E "UserId|Account|Arn"
 echo ""
-echo "(...824  = aws-isp-fe-platform-dev)"
+echo "(...824  = our squad dev account)"
 echo ""
 echo "NPX CDK LS"
 echo "=========="
