@@ -6,7 +6,7 @@ The TypeScript CDK project, including git repository, was <a href="https://cdkwo
 
     cdk init sample-app --language typescript
 
-You can run [env.sh](env.sh) to setup & view environment details within your local bash console/terminal session.
+You can run [env.sh](env.sh) from the root of the project directory, within your local bash session, to setup & view environment details.
 
 The remainder of this README was auto-generated during the CDK project initialisation...
 
