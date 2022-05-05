@@ -26,7 +26,7 @@ echo "========================================"
 echo ""
 aws s3 ls
 echo ""
-aws sts get-caller-identity
+aws sts get-caller-identity | grep -E "UserId|Account|Arn"
 echo ""
 echo "(...824  = aws-isp-fe-platform-dev)"
 echo ""
