@@ -3,8 +3,8 @@
 ##############################################
 
 clear
-export AWS_PROFILE=aws-isp-fe-platform-dev
-export AWS_REGION=eu-west-1
+export AWS_PROFILE="aws-isp-fe-platform-dev"
+export AWS_REGION="eu-west-1"
 echo ""
 echo "AWS ENVIRONMENT VARIABLES"
 echo "========================="
