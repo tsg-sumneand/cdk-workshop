@@ -1,3 +1,7 @@
+##############################################
+#  Setup & Display Project Work Environment  #
+##############################################
+
 clear
 export AWS_PROFILE=aws-isp-fe-platform-dev
 export AWS_REGION=eu-west-1
@@ -21,5 +25,10 @@ echo "AWS S3 LS"
 echo "========="
 echo ""
 aws s3 ls
+echo ""
+echo "NPX CDK LS"
+echo "=========="
+echo ""
+npx cdk ls
 echo ""
 echo ""
