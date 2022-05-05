@@ -21,10 +21,14 @@ echo "=========="
 echo ""
 git branch
 echo ""
-echo "AWS S3 LS"
-echo "========="
+echo "AWS S3 LS && AWS STS GET-CALLER-IDENTITY"
+echo "========================================"
 echo ""
 aws s3 ls
+echo ""
+aws sts get-caller-identity
+echo ""
+echo "(011466683824  = aws-isp-fe-platform-dev)"
 echo ""
 echo "NPX CDK LS"
 echo "=========="
