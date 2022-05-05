@@ -8,6 +8,8 @@ The TypeScript CDK project, including git repository, was <a href="https://cdkwo
 
 You can run [env.sh](env.sh) to setup & view environment details within your local bash console/terminal session.
 
+The remainder of this README was auto-generated during the CDK project initialisation...
+
 # Welcome to your CDK TypeScript project
 
 You should explore the contents of this project. It demonstrates a CDK app with an instance of a stack (`CdkWorkshopStack`)
