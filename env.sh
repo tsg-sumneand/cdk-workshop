@@ -28,7 +28,7 @@ aws s3 ls
 echo ""
 aws sts get-caller-identity
 echo ""
-echo "(011466683824  = aws-isp-fe-platform-dev)"
+echo "(...824  = aws-isp-fe-platform-dev)"
 echo ""
 echo "NPX CDK LS"
 echo "=========="
