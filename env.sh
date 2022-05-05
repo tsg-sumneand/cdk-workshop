@@ -1,6 +1,6 @@
-##############################################
-#  Setup & Display Project Work Environment  #
-##############################################
+##############################
+#  Setup & View Environment  #
+##############################
 
 clear
 export AWS_PROFILE="aws-isp-fe-platform-dev"
